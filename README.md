@@ -1,4 +1,4 @@
-# 🛠️ Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities  
+# 🛠️ Vulnerabilities 1001: C-Family Vulnerabilities  
 
 ![Course](https://img.shields.io/badge/OpenSecurityTraining2-Course-blue?style=flat-square&logo=hackaday)  
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square&logo=verizon)  
