@@ -1,9 +1,9 @@
-# 🛠️ Vulnerabilities 1001: C-Family Vulnerabilities  
+# 🛠️ Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities  
 
-![Course](https://img.shields.io/badge/OpenSecurityTraining2-Course-blue?style=flat-square&logo=hackaday)  
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square&logo=verizon)  
-![Focus](https://img.shields.io/badge/Focus-C_Programming_Vulnerabilities-red?style=flat-square&logo=c)  
-![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-purple?style=flat-square&logo=github)  
+![Course](https://img.shields.io/badge/OpenSecurityTraining2-Course-blue?style=flat-square&logo=hackaday) 
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square&logo=verizon) 
+![Focus](https://img.shields.io/badge/Focus-C_Programming_Vulnerabilities-red?style=flat-square&logo=c) 
+![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-purple?style=flat-square&logo=github)
 
 This repository contains structured notes, labs, research studies, secure coding playbooks, and the certificate of completion for the **“Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities”** course by **OpenSecurityTraining2**.  
 
