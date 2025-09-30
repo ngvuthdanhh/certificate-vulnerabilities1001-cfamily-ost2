@@ -1,7 +1,7 @@
 # 🛠️ Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities  
 
 ![Course](https://img.shields.io/badge/OpenSecurityTraining2-Vulnerabilities%201001-darkred?style=flat-square&logo=c)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square&logo=verizon)
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=flat-square&logo=verizon)
 ![Type](https://img.shields.io/badge/Type-Learning%20Notes-orange?style=flat-square&logo=notion)
 ![Focus](https://img.shields.io/badge/Focus-C%20Programming%20Vulnerabilities-informational?style=flat-square&logo=linux)
 ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
